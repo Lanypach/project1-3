@@ -1,0 +1,16 @@
+body {background-color: lavenderblush;
+    font-family: fantasy;}
+
+header {background-color: floralwhite;}
+
+h1 {color:burlywood;}
+
+nav > ul {line-height: 1.5em;
+            color: aquamarine;}
+
+section {background-color: beige;
+        width: 80%;
+        font-size: 1em;
+        font-family: sans-serif;}
+
+footer {background-color: cornsilk;}
